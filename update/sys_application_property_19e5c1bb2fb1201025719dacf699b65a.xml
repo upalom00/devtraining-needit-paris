@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_application_property">
+    <sys_application_property action="INSERT_OR_UPDATE">
+        <default_value>21</default_value>
+        <description>Number of days a NeedIt Task is overdue before it should automatically close.</description>
+        <name>x_58872_needit.autoCloseOverdue</name>
+        <property display_value="x_58872_needit.autoCloseOverdue" name="x_58872_needit.autoCloseOverdue">7f96d9500f9af2000d030dbce1050ed2</property>
+        <read_roles/>
+        <sys_class_name>sys_application_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 23:55:02</sys_created_on>
+        <sys_id>19e5c1bb2fb1201025719dacf699b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.autoCloseOverdue</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_application_property_19e5c1bb2fb1201025719dacf699b65a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 23:55:02</sys_updated_on>
+        <type>choicelist</type>
+        <usage_notes/>
+        <write_roles/>
+    </sys_application_property>
+</record_update>
